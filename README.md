@@ -1,6 +1,6 @@
 ## Deployed on Netlify
 
-You can view the project live here: [![Live Site](https://unsplash-img-react-vite.netlify.app/)
+You can view the project live here: [Live Site](https://unsplash-img-react-vite.netlify.app/)
 
 ## Figma URL
 
